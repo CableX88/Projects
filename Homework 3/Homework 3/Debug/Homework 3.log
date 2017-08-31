@@ -1,0 +1,13 @@
+﻿Build started 4/9/2015 10:55:13 PM.
+     1>Project "F:\C++\Homework 3\Homework 3\Homework 3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Fractions.cpp
+         Fractions.cpp
+     1>f:\c++\homework 3\homework 3\fractions.cpp(106): error C2676: binary '*' : 'Fractions' does not define this operator or a conversion to a type acceptable to the predefined operator
+     1>f:\c++\homework 3\homework 3\fractions.cpp(107): error C2676: binary '*' : 'Fractions' does not define this operator or a conversion to a type acceptable to the predefined operator
+     1>f:\c++\homework 3\homework 3\fractions.cpp(108): error C2660: 'Fractions::reduce' : function does not take 2 arguments
+     1>Done Building Project "F:\C++\Homework 3\Homework 3\Homework 3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.85
